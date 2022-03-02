@@ -8,6 +8,6 @@ The ML model is built based on two methods:
   <ol> Upper Confidence Bound </ol>
   </li>
   
-  The dataset fdefines the AD CTR (Click-Through Rate) of a website. The ML models respectively predict the ad which was clicked by the user the most.
+  The dataset defines the AD CTR (Click-Through Rate) of a website. The ML models respectively predict the ad which was clicked by the user the most.
   
   The final predictions are represented on a histogram and it was found that ad 5 was clicked the most.
